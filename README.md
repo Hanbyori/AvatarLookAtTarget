@@ -11,4 +11,5 @@ https://github.com/user-attachments/assets/08bbc727-b056-40b4-9a33-e76edbc6275f
 
 ```Assets/Prefabs``` 폴더에서 ```AvatarLookAtTarget``` 프리팹을 꺼내서 사용하면 됩니다.
 
-BlendShape의 경우 이름을 입력하고 처음 한번만 실행하면 Index를 자동으로 잡습니다.
+BlendShape의 경우 이름을 입력하고 **처음 한번 실행**해야 합니다.
+그 이후에는 에디터에서 Index를 자동으로 잡습니다.
