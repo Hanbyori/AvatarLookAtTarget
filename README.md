@@ -14,3 +14,5 @@ https://github.com/user-attachments/assets/08bbc727-b056-40b4-9a33-e76edbc6275f
 BlendShape의 경우 이름을 입력하고 **처음 한번 실행**해야 합니다.
 
 그 이후에는 에디터에서 Index를 자동으로 잡습니다.
+
+타임라인에서 사용하고 싶은 경우, 타겟 객체를 Animator 트랙으로 움직이면 됩니다.
